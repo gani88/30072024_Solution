@@ -1,0 +1,14 @@
+C:\Users\Enigma\Documents\Enigma\Job\AdIns\Task-Net\bin\Debug\net8.0\Task-Net.exe
+C:\Users\Enigma\Documents\Enigma\Job\AdIns\Task-Net\bin\Debug\net8.0\Task-Net.deps.json
+C:\Users\Enigma\Documents\Enigma\Job\AdIns\Task-Net\bin\Debug\net8.0\Task-Net.runtimeconfig.json
+C:\Users\Enigma\Documents\Enigma\Job\AdIns\Task-Net\bin\Debug\net8.0\Task-Net.dll
+C:\Users\Enigma\Documents\Enigma\Job\AdIns\Task-Net\bin\Debug\net8.0\Task-Net.pdb
+C:\Users\Enigma\Documents\Enigma\Job\AdIns\Task-Net\obj\Debug\net8.0\Task-Net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enigma\Documents\Enigma\Job\AdIns\Task-Net\obj\Debug\net8.0\Task-Net.AssemblyInfoInputs.cache
+C:\Users\Enigma\Documents\Enigma\Job\AdIns\Task-Net\obj\Debug\net8.0\Task-Net.AssemblyInfo.cs
+C:\Users\Enigma\Documents\Enigma\Job\AdIns\Task-Net\obj\Debug\net8.0\Task-Net.csproj.CoreCompileInputs.cache
+C:\Users\Enigma\Documents\Enigma\Job\AdIns\Task-Net\obj\Debug\net8.0\Task-Net.dll
+C:\Users\Enigma\Documents\Enigma\Job\AdIns\Task-Net\obj\Debug\net8.0\refint\Task-Net.dll
+C:\Users\Enigma\Documents\Enigma\Job\AdIns\Task-Net\obj\Debug\net8.0\Task-Net.pdb
+C:\Users\Enigma\Documents\Enigma\Job\AdIns\Task-Net\obj\Debug\net8.0\Task-Net.genruntimeconfig.cache
+C:\Users\Enigma\Documents\Enigma\Job\AdIns\Task-Net\obj\Debug\net8.0\ref\Task-Net.dll
